@@ -1,0 +1,319 @@
+%| Weekly report template for CSUS Senior Design
+%|
+%| language: LaTeX
+%| Author: Ben Smith
+%| 
+%| This source has been tagged with the "<CHANGE" tag in areas
+%| that require updating when making a new docuent
+%|
+%| This source will generate a PDF file complete with thumbnails navigation menu and metadata.
+%| Much of the tex awesomeness comes from http://www.michaelshell.org/ praise be to him for creating the guide
+\documentclass[12pt,article,compsoc]{IEEEtran}
+
+%| Override compsoc class' Palatino font for body text, restores to Times New Roman
+\renewcommand{\rmdefault}{ptm}\selectfont
+
+%| IEEE Citation package
+ \usepackage{cite}
+
+%| American Mathematical Society package for fancy maths	
+\usepackage[cmex10]{amsmath}
+\interdisplaylinepenalty=2500				% Restores IEEE line spacing after amsmath
+
+%| Better tables than LaTeX 2e
+\usepackage{array}
+
+%| Improved URL handling
+\usepackage{url}
+
+%| Enables PDF metadata, thumbnails, and navigation
+\newcommand\MYhyperrefoptions{
+	bookmarks=true,
+	bookmarksnumbered=true,
+	pdfpagemode={UseOutlines},
+	plainpages=false,
+	pdfpagelabels=true,
+	colorlinks=true,
+	linkcolor={black},
+	citecolor={black},
+	pagecolor={black},
+	urlcolor={black},
+	pdftitle={Senior Design: Weekly Progress Report},							%#CHANGE
+	pdfsubject={Senior Design},													%#CHANGE
+	pdfauthor={Michael Frith, David Larribas, Devin Moore, Benjamin Smith},		%#CHANGE
+	pdfkeywords={Weekly Report}}												%#CHANGE
+
+%| Calls hyper ref package 
+\usepackage[\MYhyperrefoptions,pdftex]{hyperref}
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+
+%| =================================================================================================
+%| Title Block
+%| =================================================================================================
+\title{Senior Design: Weekly Progress Report}
+\author{Team 3: Micheal Frith, David Larribas, Devin Moore, Benjamin Smith}
+\date{\today}
+\maketitle
+
+%| =================================================================================================
+%| Header 
+%| =================================================================================================
+\markboth{Progress Report 1: \today}%
+{derp}
+
+%| =================================================================================================
+%| Weekly time report
+%| =================================================================================================
+\section{Group Time Synopsis}
+	{\bf Current Group Leader:} Benjamin Smith
+	
+	\subsection{Team efforts and overall status}
+	\IEEEPARstart{T}{he} primary objective of the first week was to solidify our group’s societal
+	problem selection. Members of the group voiced concern about a topic we had chosen over the summer. 
+	The root concern was lack of interest in the hardware associated with the project idea. In 
+	deference to their concern and in consideration of the three other groups researching highway 
+	safety we, as a group, chose to switch to health and wellness. This topic has no shortage of peer
+	reviewed sources and will yield opportunities for all group members to show their talents and 
+	interests. We have concretely settled on a topic, there will be no issue submitting the problem 
+	statement on time. 	The other significant expenditure of work hours came from the setup of team document standards and 
+	collaborative tools. \LaTeX\ templates were developed for weekly reports and an IEEE standard report
+	with a title page as described in week two’s lecture notes. These templates are maintained in a 
+	group Github repository which can be found \href{http://github.com/2014SeniorProject}{here}.
+	
+	\begin{table}[ht]
+		\renewcommand{\arraystretch}{1.3}
+			\caption{Weekly Team Meetings}
+			
+			\label{Team Hour Summary}
+			
+			\centering
+			\begin{tabular}{p{7cm}|p{1cm}}
+			\hline
+			\bfseries 	Topic 										& \bfseries Hours\\
+			\hline\hline
+						Monday Morning Planning Session				& 3.0					\\
+						Tuesday Lab: discussing the new topic 		& 2.0					\\	
+						Friday: societal issue paper outline		& 5.0					\\	
+			\hline
+			\end{tabular}
+		\end{table}
+		 
+	\subsection{Monday Morning Planning Session}
+		We discussed an agenda for week two and assessed team member availability and bandwidth during the week to come. \\		-	Review of weeks assignment				\\		-	Review of lecture notes					\\		-	Debrief last week’s assignments			\\		-	Assign next week’s tasks				\\		Some stuff that’s going to happen Monday:
+		
+	\subsection{discussing the new topic}
+		Given the gravity of choosing a 9-month long project we sat down as a group and spent some time to make sure 
+		we have an understanding of each other’s expectations. It broke down roughly on the CPE or EEE line. Computer 
+		engineers were looking for digital control and FPGA based designs. The electrical engineers were looking for 
+		power electronics design and electric control.  
+		
+	\subsection{Friday: societal issue paper outline}
+		We took a large amount of time to create a proper outline of the problem statement before the weekend. 
+		Forming the paper outline gave the group a chance to further synchronize their expectations of the project 
+		and what kind of solution we can offer. We began to research issues which effect Health and Wellness in 
+		modern society to provide the framework for our paper. The small amount of research gave the group direction 
+		and helped them be more efficacious over the weekend. 
+
+
+%| =================================================================================================
+%| Individual Activity Synopsis
+%| Mike
+%| =================================================================================================
+\section{Individual Activity Synopsis}
+	\subsection{Micheal Frith}
+
+	\subsubsection*{Synopsis of past week's work}
+
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Micheal Frith: Tasks Assigned - Last Week}
+		
+		\label{Summary of Micheal Frith's activities: this week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}} 
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Micheal Frith: Tasks Assigned - Next Week}
+		
+		\label{Summary of Micheal Frith's activities: this week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\subsubsection*{Special Problems or other reporting}
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+%| =================================================================================================
+%| Individual Activity Synopsis
+%| David
+%| =================================================================================================
+\subsection{David Larribas}
+
+	\subsubsection*{Synopsis of past week's work}
+
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{David Larribas: Tasks Assigned - Last Week}
+		
+		\label{Summary of David Larribas' activities: last week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{David Larribas: Tasks Assigned - Next Week}
+		
+		\label{Summary of David Larribas' activites: this week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+		\hline
+
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\subsubsection*{Special Problems or other reporting}
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+%| =================================================================================================
+%| Individual Activity Synopsis
+%| Devin
+%| =================================================================================================
+\subsection{Devin Moore}
+
+	\subsubsection*{Synopsis of past week's work}
+
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Devin Moore: Tasks Assigned - Last Week}
+		
+		\label{Summary of Devin Moore's activities: last week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Devin Moore: Tasks Assigned - Next Week}
+		
+		\label{Summary of Devin Moore's activites: this week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\subsubsection*{Special Problems or other reporting}
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+%| =================================================================================================
+%| Individual Activity Synopsis
+%| Ben
+%| =================================================================================================
+\subsection{Ben Smith}
+
+	\subsubsection*{Synopsis of past week's work}
+
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Ben Smith: Tasks Assigned - Last Week}
+		
+		\label{Summary of Ben Smith's activities: last week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+
+		\hline
+		\bfseries 		Task					& \bfseries Hours Worked		& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\begin{table}[ht]
+	\renewcommand{\arraystretch}{1.3}
+		\caption{Ben Smith: Tasks Assigned - Next Week}
+		
+		\label{Summary of Ben Smith's activites: this week}
+		
+		\centering
+		\begin{tabular}{p{5.5cm}|p{1cm}|p{1cm}}
+
+		\hline
+		\bfseries 	Task		 		& \bfseries Hours Worked	& \bfseries Status	\\
+		\hline\hline
+					foo					& 2.0						& 20\%				\\	%| Percentage signs are escaped by a \ to indicate they are not a LaTeX command
+					bar					& 2.0						& 20\%				\\	
+		\hline
+		\end{tabular}
+	\end{table}
+
+	\subsubsection*{Special Problems or other reporting}
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus, enim sed ullamcorper euismod, risus enim luctus nisl, vitae lacinia tellus neque in diam. Nullam quis bibendum felis, ac adipiscing augue. Pellentesque lobortis tristique condimentum. Etiam eros enim, facilisis vitae tortor id, imperdiet ullamcorper nulla. Mauris ullamcorper laoreet nunc a sodales. Curabitur placerat mauris nec tellus mattis posuere. Phasellus ullamcorper ipsum massa, nec euismod dolor iaculis ut.
+
+\end{document}
