@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.5)  9 SEP 2013 08:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.5)  9 SEP 2013 09:53
 entering extended mode
 **WeekOne.tex
 ("C:\Users\devin\Documents\GitHub\Weekly-Reports\Week One\WeekOne.tex"
@@ -453,122 +453,135 @@ Missing character: There is no ™ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 137.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 138.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 151--151
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 152--152
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 168--168
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 169--169
 \OT1/ptm/b/n/9 Worked| 
  []
 
+[2
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--198
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 198--198
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 200--200
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 216--216
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 218--218
 \OT1/ptm/b/n/9 Worked| 
  []
 
+[3
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 248--248
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 251--251
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 270--270
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 272--272
 \OT1/ptm/b/n/9 Worked| 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[4
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 302--302
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 309--309
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 320--320
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 327--327
 \OT1/ptm/b/n/9 Worked| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
+[5
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
  ("C:\Users\devin\Documents\GitHub\Weekly-Reports\Week One\WeekOne.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 338.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 338.
 Package rerunfilecheck Info: File `WeekOne.out' has not changed.
 (rerunfilecheck)             Checksum: AC8CF91514659E84183E92FC9E371E86;725.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
  ) 
 Here is how much of TeX's memory you used:
- 6475 strings out of 493921
- 97153 string characters out of 3147283
- 187747 words of memory out of 3000000
+ 6477 strings out of 493921
+ 97165 string characters out of 3147283
+ 180747 words of memory out of 3000000
  9683 multiletter control sequences out of 15000+200000
  65535 words of font info for 128 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 29i,10n,28p,507b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,10n,28p,582b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on WeekOne.pdf (3 pages, 71945 bytes).
+Output written on WeekOne.pdf (5 pages, 75063 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
