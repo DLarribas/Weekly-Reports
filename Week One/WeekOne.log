@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.21)  9 SEP 2013 10:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.21)  9 SEP 2013 13:23
 entering extended mode
 **WeekOne.tex
 ("C:\Users\gondor\Documents\GitHub\Weekly-Reports\Week One\WeekOne.tex"
@@ -468,22 +468,22 @@ Missing character: There is no ™ in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 148.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 162--162
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 161--161
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 179--179
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 182--182
 \OT1/ptm/b/n/9 Worked| 
  []
 
@@ -491,22 +491,22 @@ Overfull \hbox (2.28201pt too wide) in paragraph at lines 179--179
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 210--210
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 217--217
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 231--231
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 238--238
 \OT1/ptm/b/n/9 Worked| 
  []
 
@@ -514,22 +514,22 @@ Overfull \hbox (2.28201pt too wide) in paragraph at lines 231--231
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 267--267
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 274--274
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--288
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 288--288
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 295--295
 \OT1/ptm/b/n/9 Worked| 
  []
 
@@ -541,46 +541,46 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¦ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--329
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 329--329
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 336--336
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (3.0559pt too wide) in paragraph at lines 351--351
+Overfull \hbox (3.0559pt too wide) in paragraph at lines 358--358
 \OT1/ptm/b/n/9 Planned| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 371.
 [5
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 371.
  ("C:\Users\gondor\Documents\GitHub\Weekly-Reports\Week One\WeekOne.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 364.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 364.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 371.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 371.
 Package rerunfilecheck Info: File `WeekOne.out' has not changed.
 (rerunfilecheck)             Checksum: AC8CF91514659E84183E92FC9E371E86;725.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 371.
  ) 
 Here is how much of TeX's memory you used:
  6462 strings out of 493921
  96833 string characters out of 3147278
- 180381 words of memory out of 3000000
+ 181381 words of memory out of 3000000
  9667 multiletter control sequences out of 15000+200000
  66613 words of font info for 129 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
@@ -591,7 +591,7 @@ onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on WeekOne.pdf (5 pages, 77316 bytes).
+Output written on WeekOne.pdf (5 pages, 78087 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
