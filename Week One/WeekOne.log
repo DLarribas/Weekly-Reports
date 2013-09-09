@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.5)  9 SEP 2013 07:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.9.5)  9 SEP 2013 08:13
 entering extended mode
 **WeekOne.tex
 ("C:\Users\devin\Documents\GitHub\Weekly-Reports\Week One\WeekOne.tex"
@@ -509,48 +509,48 @@ Overfull \hbox (2.28201pt too wide) in paragraph at lines 248--248
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 266--266
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 270--270
 \OT1/ptm/b/n/9 Worked| 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 298--298
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 302--302
 \OT1/ptm/b/n/9 Worked| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
 []|\OT1/ptm/b/n/9 Hours
  []
 
 
-Overfull \hbox (2.28201pt too wide) in paragraph at lines 316--316
+Overfull \hbox (2.28201pt too wide) in paragraph at lines 320--320
 \OT1/ptm/b/n/9 Worked| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
  ("C:\Users\devin\Documents\GitHub\Weekly-Reports\Week One\WeekOne.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `WeekOne.out' has not changed.
 (rerunfilecheck)             Checksum: AC8CF91514659E84183E92FC9E371E86;725.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
  ) 
 Here is how much of TeX's memory you used:
  6475 strings out of 493921
@@ -566,7 +566,7 @@ onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on WeekOne.pdf (3 pages, 71662 bytes).
+Output written on WeekOne.pdf (3 pages, 71945 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  31 named destinations out of 1000 (max. 500000)
